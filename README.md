@@ -1,4 +1,5 @@
 #React + Express Starter
+React, Redux, Express, Bourbon & Neat.
 
 ##Getting Started
 
